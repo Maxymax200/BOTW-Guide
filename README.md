@@ -13,7 +13,9 @@ N.B The "mlc01" folder The mlc01 path stores the emulated Wii U internal memory,
 System files and apps
 Installed games, updates and DLC's
 User-created save data
-This should be on a storage drive that Cemu will always have access to, with lots of free space. By default, the mlc01 path will be stored in the Cemu directory.
+
+This should be on a storage drive that Cemu will always have access to, with lots of free space.
+By default, the mlc01 path will be stored in the Cemu directory.
 If you delete this folder everything will be gone. If this path ever gets reset, make sure to set it again in Options -> General settings -> MLC Path
 
 # Downloading BOTW
