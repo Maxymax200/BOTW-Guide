@@ -30,11 +30,10 @@ It's as simple as that
 # Setting Up CEMU
 
 - On the top bar, go to Options -> Input settings
-Change Emulated controller to "Wii U GamePad"
-Click on the Controller field
-Set API to "SDLController"
-Set Controller to your actual controller
- - If no controller appears after connecting it to your computer, try changing your controller API
-Proceed to map all your controller button inputs
-At the top, enter in a controller profile name, e.g. "GamePad Controller"
-Click Save
+- Change Emulated controller to "Wii U GamePad"
+- Click on the Controller field
+- Set API to "SDLController"
+- Set Controller to your actual controller. If no controller appears after connecting it to your computer, try changing your controller API
+- Proceed to map all your controller button inputs
+- At the top, enter in a controller profile name, e.g. "GamePad Controller"
+- Click Save
