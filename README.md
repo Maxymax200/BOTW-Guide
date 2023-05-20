@@ -2,16 +2,12 @@
 I couldn't be bothered helping people to get and play BOTW in the "alternative" way so I made this. Enjoy
 
 # Downloading CEMU
-Download [CEMU](https://cemu.info/releases/cemu_1.27.1.zip) and extract.
-Open the Cemu.exe, where you will be greeted by a 'Getting Started' window (This only happens when you first open it)
-
-Create a folder in a safe location named "mlc01"
-
-Leave the "Game path" field blank for now
-
-Click "Download community graphic packs"
-
-Click Next
+- Download [CEMU](https://cemu.info/releases/cemu_1.27.1.zip) and extract.
+- Open the Cemu.exe, where you will be greeted by a 'Getting Started' window (This only happens when you first open it)
+- Create a folder in a safe location named "mlc01"
+- Leave the "Game path" field blank for now
+- Click "Download community graphic packs"
+- Click Next
 
 N.B The "mlc01" folder The mlc01 path stores the emulated Wii U internal memory, including:
 
