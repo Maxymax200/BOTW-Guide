@@ -29,7 +29,7 @@ It's as simple as that
 
 # Setting Up CEMU
 
-On the top bar, go to Options -> Input settings
+- On the top bar, go to Options -> Input settings
 Change Emulated controller to "Wii U GamePad"
 Click on the Controller field
 Set API to "SDLController"
