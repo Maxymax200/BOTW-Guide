@@ -10,8 +10,11 @@ I couldn't be bothered helping people to get and play BOTW in the "alternative" 
 - Click Next
 
 N.B The "mlc01" folder The mlc01 path stores the emulated Wii U internal memory, including:
+
 System files and apps
+
 Installed games, updates and DLC's
+
 User-created save data
 
 This should be on a storage drive that Cemu will always have access to, with lots of free space.
