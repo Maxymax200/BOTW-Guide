@@ -8,6 +8,7 @@ Create a folder in a safe location named "mlc01"
 Leave the "Game path" field blank
 Click "Download community graphic packs"
 Click Next
+
 N.B The "mlc01" folder The mlc01 path stores the emulated Wii U internal memory, including:
 
 System files and apps
